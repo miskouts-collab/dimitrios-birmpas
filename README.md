@@ -15,6 +15,14 @@ DB stands for **Dimitrios Birmpas**. DB Clinic Development supports dermatology,
 - Medical-equipment evaluation and ROI
 - Sustainable business development
 
+## Professional and scientific articles
+
+- [Full GitHub article collection](articles/)
+- [Medical Physics and modern clinical technology](articles/medical-physics-and-clinical-technology.md)
+- [Diffusion MRI and the study of image noise](articles/diffusion-mri-and-image-noise.md)
+- [Professional experience at LIDS Medical](articles/lids-medical-professional-experience.md)
+- [Professional experience at BTL Hellas Aesthetics](articles/btl-hellas-aesthetics-professional-experience.md)
+
 ## Official links
 
 - [Official website](https://dimitrios-birmpas.miskouts.chatgpt.site/)
