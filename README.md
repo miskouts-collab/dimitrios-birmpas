@@ -17,7 +17,8 @@ DB stands for **Dimitrios Birmpas**. DB Clinic Development supports dermatology,
 
 ## Professional and scientific articles
 
-- [Full GitHub article collection](articles/)
+- [English article collection](articles/)
+- [Ελληνικά άρθρα — Δημήτριος Μπίρμπας](arthra/)
 - [Medical Physics and modern clinical technology](articles/medical-physics-and-clinical-technology.md)
 - [Diffusion MRI and the study of image noise](articles/diffusion-mri-and-image-noise.md)
 - [Professional experience at LIDS Medical](articles/lids-medical-professional-experience.md)
